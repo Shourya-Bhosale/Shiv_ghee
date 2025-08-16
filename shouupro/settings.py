@@ -6,7 +6,9 @@ SECRET_KEY = 'django-insecure-k$&&tiycj83+lbvmt(p6+!eamv-lrfbz^547r5il@1x+(#0k=c
 
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["https://shouurya.onrender.com",
+                 "127.0.0.1",
+                 "local host"]
 
 # Application definition
 INSTALLED_APPS = [
