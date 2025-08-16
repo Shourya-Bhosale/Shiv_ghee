@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../shouupro/env/core/__pycache__"
+		},
+		{
+			"path": "../shouupro/env/core/migrations"
+		},
+		{
+			"path": "../shouupro/env/core/static"
+		},
+		{
+			"path": "../shouupro/env/core/templates"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../shouupro"
+		},
+		{
+			"path": "../core"
+		}
+	],
+	"settings": {}
+}
